@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "le_devil",
-    "path": "sprites/le_devil/le_devil.yy",
+    "name": "spr_McIdle",
+    "path": "sprites/spr_McIdle/spr_McIdle.yy",
   },
   "solid": false,
   "visible": true,
