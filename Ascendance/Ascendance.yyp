@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"le_devil","path":"sprites/le_devil/le_devil.yy",},"order":15,},
+    {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
