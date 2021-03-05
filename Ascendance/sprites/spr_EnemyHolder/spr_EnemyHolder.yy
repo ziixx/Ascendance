@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 2,
-  "bbox_right": 12,
-  "bbox_top": 1,
-  "bbox_bottom": 15,
+  "bbox_left": 0,
+  "bbox_right": 31,
+  "bbox_top": 0,
+  "bbox_bottom": 31,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 16,
-  "height": 16,
+  "width": 32,
+  "height": 32,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"277e35d8-af63-4c57-a3d6-faeff612c2dd","path":"sprites/le_devil/le_devil.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"277e35d8-af63-4c57-a3d6-faeff612c2dd","path":"sprites/le_devil/le_devil.yy",},"LayerId":{"name":"7b80f86c-3f60-4d52-b6c1-c7ce6f0fab56","path":"sprites/le_devil/le_devil.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"le_devil","path":"sprites/le_devil/le_devil.yy",},"resourceVersion":"1.0","name":"277e35d8-af63-4c57-a3d6-faeff612c2dd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"12176b58-e263-4698-a4be-4f1c10a54daa","path":"sprites/spr_EnemyHolder/spr_EnemyHolder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"12176b58-e263-4698-a4be-4f1c10a54daa","path":"sprites/spr_EnemyHolder/spr_EnemyHolder.yy",},"LayerId":{"name":"1b4279cb-2fd2-4d5d-a51a-1f47f746aed4","path":"sprites/spr_EnemyHolder/spr_EnemyHolder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_EnemyHolder","path":"sprites/spr_EnemyHolder/spr_EnemyHolder.yy",},"resourceVersion":"1.0","name":"12176b58-e263-4698-a4be-4f1c10a54daa","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"le_devil","path":"sprites/le_devil/le_devil.yy",},
+    "spriteId": {"name":"spr_EnemyHolder","path":"sprites/spr_EnemyHolder/spr_EnemyHolder.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c8224909-08d8-4226-89a4-3b5750ba0728","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"277e35d8-af63-4c57-a3d6-faeff612c2dd","path":"sprites/le_devil/le_devil.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1733157b-3066-4786-9573-1651e3110b13","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"12176b58-e263-4698-a4be-4f1c10a54daa","path":"sprites/spr_EnemyHolder/spr_EnemyHolder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"le_devil","path":"sprites/le_devil/le_devil.yy",},
+    "parent": {"name":"spr_EnemyHolder","path":"sprites/spr_EnemyHolder/spr_EnemyHolder.yy",},
     "resourceVersion": "1.3",
-    "name": "le_devil",
+    "name": "spr_EnemyHolder",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7b80f86c-3f60-4d52-b6c1-c7ce6f0fab56","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1b4279cb-2fd2-4d5d-a51a-1f47f746aed4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "le_devil",
+  "name": "spr_EnemyHolder",
   "tags": [],
   "resourceType": "GMSprite",
 }
