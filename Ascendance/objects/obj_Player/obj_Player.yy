@@ -3,7 +3,7 @@
     "name": "spr_McIdle",
     "path": "sprites/spr_McIdle/spr_McIdle.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -20,10 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":3.0,"y":1.0,},
-    {"x":28.0,"y":1.0,},
-    {"x":28.0,"y":31.0,},
-    {"x":3.0,"y":31.0,},
+    {"x":6.0,"y":1.0,},
+    {"x":26.0,"y":1.0,},
+    {"x":26.0,"y":32.0,},
+    {"x":6.0,"y":32.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
