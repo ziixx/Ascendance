@@ -1,11 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"fsign","path":"fonts/fsign/fsign.yy",},"order":0,},
+    {"id":{"name":"obj_Text","path":"objects/obj_Text/obj_Text.yy",},"order":4,},
     {"id":{"name":"le_devil","path":"sprites/le_devil/le_devil.yy",},"order":1,},
     {"id":{"name":"obj_Border","path":"objects/obj_Border/obj_Border.yy",},"order":1,},
     {"id":{"name":"obj_NPCTemplate","path":"objects/obj_NPCTemplate/obj_NPCTemplate.yy",},"order":3,},
+    {"id":{"name":"spr_TextBox","path":"sprites/spr_TextBox/spr_TextBox.yy",},"order":5,},
     {"id":{"name":"obj_Camera","path":"objects/obj_Camera/obj_Camera.yy",},"order":2,},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"order":0,},
     {"id":{"name":"spr_McWalkCycle","path":"sprites/spr_McWalkCycle/spr_McWalkCycle.yy",},"order":3,},
+    {"id":{"name":"spr_npcTalk","path":"sprites/spr_npcTalk/spr_npcTalk.yy",},"order":4,},
     {"id":{"name":"spr_Sprite2","path":"sprites/spr_Sprite2/spr_Sprite2.yy",},"order":0,},
     {"id":{"name":"spr_McIdle","path":"sprites/spr_McIdle/spr_McIdle.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
