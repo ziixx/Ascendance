@@ -20,7 +20,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_McBattleMenu","path":"objects/obj_McBattleMenu/obj_McBattleMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":38,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_McBattleMenu","path":"objects/obj_McBattleMenu/obj_McBattleMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":38,"eventType":10,"collisionObjectId":null,"parent":{"name":"obj_McBattleMenu","path":"objects/obj_McBattleMenu/obj_McBattleMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":40,"eventType":10,"collisionObjectId":null,"parent":{"name":"obj_McBattleMenu","path":"objects/obj_McBattleMenu/obj_McBattleMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":40,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_McBattleMenu","path":"objects/obj_McBattleMenu/obj_McBattleMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

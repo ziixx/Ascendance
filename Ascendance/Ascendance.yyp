@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_BattleHandler","path":"objects/obj_BattleHandler/obj_BattleHandler.yy",},"order":6,},
+    {"id":{"name":"spr_McBattleMenu3","path":"sprites/spr_McBattleMenu3/spr_McBattleMenu3.yy",},"order":8,},
     {"id":{"name":"fsign","path":"fonts/fsign/fsign.yy",},"order":0,},
     {"id":{"name":"obj_Text","path":"objects/obj_Text/obj_Text.yy",},"order":4,},
     {"id":{"name":"obj_Enemy","path":"objects/obj_Enemy/obj_Enemy.yy",},"order":5,},
@@ -19,6 +20,7 @@
     {"id":{"name":"spr_McWalkCycle","path":"sprites/spr_McWalkCycle/spr_McWalkCycle.yy",},"order":3,},
     {"id":{"name":"spr_npcTalk","path":"sprites/spr_npcTalk/spr_npcTalk.yy",},"order":4,},
     {"id":{"name":"spr_Sprite2","path":"sprites/spr_Sprite2/spr_Sprite2.yy",},"order":0,},
+    {"id":{"name":"spr_McBattleMenu2","path":"sprites/spr_McBattleMenu2/spr_McBattleMenu2.yy",},"order":7,},
     {"id":{"name":"spr_McIdle","path":"sprites/spr_McIdle/spr_McIdle.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
