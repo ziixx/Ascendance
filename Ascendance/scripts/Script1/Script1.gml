@@ -15,3 +15,7 @@
 	global.PartySize = 1
 	
 	global.CurrentTurn = 1
+	
+	global.xpos = 0
+	global.ypos = 0
+	global.croom = "Room1"

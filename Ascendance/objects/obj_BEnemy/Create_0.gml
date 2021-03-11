@@ -4,3 +4,4 @@ var ag
 var st
 var lk
 var tn
+countedfor = false
